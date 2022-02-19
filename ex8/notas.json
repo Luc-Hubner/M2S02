@@ -1,0 +1,28 @@
+{
+  "Estudantes": [
+    {
+      "Nome": "Pedro",
+      "Nota": 9
+    },
+    {
+      "Nome": "Amie",
+      "Nota": 10
+    },
+    {
+      "Nome": "Bob",
+      "Nota": 3
+    },
+    {
+      "Nome": "Fernanda",
+      "Nota": 5
+    },
+    {
+      "Nome": "Micheal",
+      "Nota": 1
+    },
+    {
+      "Nome": "Olivia",
+      "Nota": 7
+    }
+  ]
+}
